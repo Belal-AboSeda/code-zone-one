@@ -1,2 +1,2 @@
-# leon templete one
+# leon-templete-one
 templete one 
